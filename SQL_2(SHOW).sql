@@ -1,0 +1,3 @@
+SHOW DATABASES;
+USE college;
+SHOW TABLES;
